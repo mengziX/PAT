@@ -1,2 +1,15 @@
 B1051复数乘法（15分）复数的运算sin cos函数
-B1052卖个萌（20分）难点字符的读取getline() 
+B1052卖个萌（20分）难点 带空格字符的读取getline(cin,t)
+B1053住房空置率 (20 分)
+
+B1054求平均值 (20 分) 难点 字符转化为数字 #include<sstream>  难点 字符转化为数字 #include<sstream> 
+        stringstream ss;
+        ss<<str;
+        ss>>temp;
+        ss.clear();
+B1055 集体照 (25 分) 难点： 双向队列 two point
+        #include<deque>  
+        deque<string> que[K]; //双向队列
+        que[i].push_back(a[k--].name);
+        que[i].push_front(a[k--].name);
+

@@ -13,3 +13,5 @@ B1055 集体照 (25 分) 难点： 双向队列 two point
         que[i].push_back(a[k--].name);
         que[i].push_front(a[k--].name);
 
+B1062  难点：公约数
+B1063  开方 sqrt(1.0*sum);

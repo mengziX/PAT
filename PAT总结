@@ -16,3 +16,7 @@ B1055 集体照 (25 分) 难点： 双向队列 two point
 B1062  难点：公约数
 B1063  开方 sqrt(1.0*sum);
 1065   单身狗 (25 分) 建议:练习vector map
+1067   试密码 (20 分) 
+    cin >> correct >> t;
+    getchar(); //吃回车
+    getline(cin, s);//随后正式输入
